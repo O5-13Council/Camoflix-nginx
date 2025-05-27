@@ -38,6 +38,7 @@ $ sudo systemctl reload nginx
 #Visit Domain
 path.example.com
 and wildcard *.path.example.com
+
 }
 
 
